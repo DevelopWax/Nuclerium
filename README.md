@@ -1,3 +1,3 @@
-# Nuclerium
+# Nuclerium 
 
-An launcher that permit to cheat on Paladium !👍😀
+A mod that add new items and ores 
